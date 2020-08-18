@@ -1,0 +1,5 @@
+2020-08-08 21:43:28.691  INFO 9972 --- [main] .l.SpringBootDemoLogbackApplicationTests : Starting SpringBootDemoLogbackApplicationTests on yanggy-a-P1 with PID 9972 (started by yanggy-a in G:\ideaWorkspace\spring-boot-demo-master\spring-boot-demo-logback)
+2020-08-08 21:43:28.692  INFO 9972 --- [main] .l.SpringBootDemoLogbackApplicationTests : No active profile set, falling back to default profiles: default
+2020-08-08 21:43:29.460  INFO 9972 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-08-08 21:43:29.611  INFO 9972 --- [main] .l.SpringBootDemoLogbackApplicationTests : Started SpringBootDemoLogbackApplicationTests in 1.183 seconds (JVM running for 1.684)
+2020-08-08 21:43:29.758  INFO 9972 --- [Thread-2] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'

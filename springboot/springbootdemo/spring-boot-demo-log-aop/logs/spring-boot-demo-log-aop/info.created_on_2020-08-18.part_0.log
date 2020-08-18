@@ -1,0 +1,5 @@
+2020-08-18 15:37:27,313 [main] INFO  [c.x.log.aop.SpringBootDemoLogAopApplicationTests] StartupInfoLogger.java:50 - Starting SpringBootDemoLogAopApplicationTests on yanggy-a-P1 with PID 19452 (started by yanggy-a in G:\ideaWorkspace\studyproject\springboot\springbootdemo\spring-boot-demo-log-aop)
+2020-08-18 15:37:27,314 [main] INFO  [c.x.log.aop.SpringBootDemoLogAopApplicationTests] SpringApplication.java:675 - No active profile set, falling back to default profiles: default
+2020-08-18 15:37:28,399 [main] INFO  [o.s.scheduling.concurrent.ThreadPoolTaskExecutor] ExecutorConfigurationSupport.java:171 - Initializing ExecutorService 'applicationTaskExecutor'
+2020-08-18 15:37:28,603 [main] INFO  [c.x.log.aop.SpringBootDemoLogAopApplicationTests] StartupInfoLogger.java:59 - Started SpringBootDemoLogAopApplicationTests in 1.551 seconds (JVM running for 2.042)
+2020-08-18 15:37:28,732 [Thread-2] INFO  [o.s.scheduling.concurrent.ThreadPoolTaskExecutor] ExecutorConfigurationSupport.java:208 - Shutting down ExecutorService 'applicationTaskExecutor'
